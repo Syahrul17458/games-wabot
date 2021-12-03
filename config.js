@@ -14,7 +14,7 @@ global.Owner = {
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
-  '60199782326': {
+  '6285926431562': {
     name: 'Adiixyz',
     isReport: true, // if true this number will send if user use command /report or /join
   },
@@ -30,7 +30,7 @@ global.APIs = { // API Prefix
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
   nzcha: 'http://nzcha-apii.herokuapp.com',
-  bg: 'http://bochil.ddns.net',
+  bg: 'http://bochil.ddns.net', yang
   fdci: 'https://api.fdci.se',
   dzx: 'https://api.dhamzxploit.my.id',
   zahir: 'https://zahirr-web.herokuapp.com',
